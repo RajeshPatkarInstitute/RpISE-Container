@@ -1,2 +1,2 @@
 # RpianContainer
-Dependancy Injection Container
+Dependency Injection Container
